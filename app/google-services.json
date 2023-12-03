@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548171016272",
+    "project_id": "mynotes-dd403",
+    "storage_bucket": "mynotes-dd403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548171016272:android:c3943b4d275c25cefb0955",
+        "android_client_info": {
+          "package_name": "com.angelika.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEXUe77MjvNHyx-OblsC35Sg-ikbyzgbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
