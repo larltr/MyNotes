@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyNotes</string>
+    <string name="register_text">Регистрация по номеру телефона</string>
+    <string name="icon_notes">Icon notes</string>
+    <string name="phone_number_text">Введите ваш номер</string>
+    <string name="input_code_text">Введите ваш код</string>
+    <string name="get_code_text">Получить код</string>
+    <string name="send_again">Отправить снова</string>
 </resources>
